@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/4ed7af81c09159bdab23a1be946f3bf9/transformed/jetified-react-native-0.67.2/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_fade_in.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/4ed7af81c09159bdab23a1be946f3bf9/transformed/jetified-react-native-0.67.2/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_popup_enter.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/4ed7af81c09159bdab23a1be946f3bf9/transformed/jetified-react-native-0.67.2/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_fade_out.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/4ed7af81c09159bdab23a1be946f3bf9/transformed/jetified-react-native-0.67.2/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/4ed7af81c09159bdab23a1be946f3bf9/transformed/jetified-react-native-0.67.2/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_popup_exit.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/4ed7af81c09159bdab23a1be946f3bf9/transformed/jetified-react-native-0.67.2/res/anim/catalyst_fade_out.xml"
+    }
+]

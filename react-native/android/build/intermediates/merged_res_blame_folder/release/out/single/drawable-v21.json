@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/2c28cffc1346de6a33e00a19c46b6b43/transformed/core-1.6.0/res/drawable-v21/notification_action_background.xml"
+    }
+]

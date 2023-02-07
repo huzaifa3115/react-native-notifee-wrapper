@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/resoltech/Documents/Voip/node_modules/@notifee/react-native/android/build/intermediates/merged_res/release/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/resoltech/.gradle/caches/transforms-3/83a4237439037a7b7f78c407e54ff6b2/transformed/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]
