@@ -313,11 +313,11 @@ export enum EventType {
 
   /**
    * Event type is sent when the user dismisses a notification. This is triggered via the user swiping
-   * the notification from the notification shade or performing "Clear all" notifications.
+   * the notification from the notification shade.
+   *
+   * On Android, the event is also sent when performing "Clear all" notifications unlike on iOS.
    *
    * This event is **not** sent when a notification is cancelled or times out.
-   *
-   * @platform android Android
    */
   DISMISSED = 0,
 
@@ -370,6 +370,13 @@ export enum EventType {
    * Event type is sent when a notification trigger is created.
    */
   TRIGGER_NOTIFICATION_CREATED = 7,
+
+  /**
+   * **ANDROID ONLY**
+   *
+   * Event type is sent when a notification wants to start a foreground service but a foreground service is already started.
+   */
+  FG_ALREADY_EXIST = 8,
 }
 
 /**
@@ -388,6 +395,7 @@ export interface EventDetail {
    *  - [`EventType.ACTION_PRESS`](/react-native/reference/eventtype#action_press)
    *  - [`EventType.DELIVERED`](/react-native/reference/eventtype#delivered)
    *  - [`EventType.TRIGGER_NOTIFICATION_CREATED`](/react-native/reference/eventtype#trigger_notification_created)
+   *  - [`EventType.FG_ALREADY_EXIST`](/react-native/reference/eventtype#fg_already_exist)
    */
   notification?: Notification;
 

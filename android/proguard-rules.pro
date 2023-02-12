@@ -1,13 +1,8 @@
-# Add project specific ProGuard rules here.
-# You can control the set of applied configuration files using the
-# proguardFiles setting in build.gradle.
-#
-# For more details, see
-#   http://developer.android.com/guide/developing/tools/proguard.html
-
--printmapping javasource.map
--renamesourcefileattribute SourceFile
--keepattributes Exceptions,InnerClasses,Signature,Deprecated,SourceFile,LineNumberTable,EnclosingMethod
+-keep class io.invertase.notifee.NotifeeEventSubscriber
+-keep class io.invertase.notifee.NotifeeInitProvider
+-keepnames class com.facebook.react.ReactActivity
+-keepnames class io.invertase.notifee.NotifeePackage
+-keepnames class io.invertase.notifee.NotifeeApiModule
 
 # Preserve all annotations.
 -keepattributes *Annotation*
@@ -59,15 +54,6 @@
     public <init>(android.content.Context,androidx.work.WorkerParameters);
 }
 
-# JWT
--keep class io.jsonwebtoken.** { *; }
--keepnames class io.jsonwebtoken.* { *; }
--keepnames interface io.jsonwebtoken.* { *; }
-
--keep class org.bouncycastle.** { *; }
--keepnames class org.bouncycastle.** { *; }
--dontwarn org.bouncycastle.**
-
 # EventBus
 -keepclassmembers class * {
     @org.greenrobot.eventbus.Subscribe <methods>;
@@ -86,6 +72,3 @@
 -dontwarn org.conscrypt.**
 # A resource is loaded with a relative path so the package of this class must be preserved.
 -keepnames class okhttp3.internal.publicsuffix.PublicSuffixDatabase
-
-# -----
--repackageclasses 'n.o.t.i.f.e.e'
