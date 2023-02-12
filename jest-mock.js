@@ -8,16 +8,16 @@
  * ```
  */
 
-import { version as SDK_VERSION } from './dist/version';
-import * as Notification from './dist/types/Notification';
-import * as NotificationAndroid from './dist/types/NotificationAndroid';
-import * as TriggerType from './dist/types/Trigger';
+import { version as SDK_VERSION } from '../dist/version';
+import * as Notification from '../dist/types/Notification';
+import * as NotificationAndroid from '../dist/types/NotificationAndroid';
+import * as TriggerType from '../dist/types/Trigger';
 
-export * from './dist/types/Library';
-export * from './dist/types/Notification';
-export * from './dist/types/Trigger';
-export * from './dist/types/NotificationIOS';
-export * from './dist/types/NotificationAndroid';
+export * from '../dist/types/Library';
+export * from '../dist/types/Notification';
+export * from '../dist/types/Trigger';
+export * from '../dist/types/NotificationIOS';
+export * from '../dist/types/NotificationAndroid';
 /* eslint-disable @typescript-eslint/no-unused-vars */
 /* eslint-disable @typescript-eslint/no-empty-function */
 /* eslint-disable no-undef */
